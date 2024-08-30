@@ -26,3 +26,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
+        tags: adoprog/wait-for-sql:latest-ltsc2022
